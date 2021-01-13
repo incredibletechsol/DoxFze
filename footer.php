@@ -20,7 +20,9 @@
 					<ul class="link-list">
 						<li><a href="index.php">Home</a></li>
 						<li><a href="aboutus.php">About Us</a></li>
-						<li><a href="trading.php">Trading</a></li>
+						<li><a href="goldtrading.php">Trading</a></li>
+						<li><a href="ferrous-scrap.php">Ferrous Scrap</a></li>
+                    	<li><a href="non-ferrous-scrap.php">Non-ferrous Scrap</a></li>
 						<li><a href="contact.php">Contact</a></li>
 					</ul>
 				</div>

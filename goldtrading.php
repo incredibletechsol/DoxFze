@@ -36,7 +36,7 @@
                     Gold is the oldest precious metal known to man and for thousands of years it has been valued as a global currency, a commodity, an investment and simply an object of beauty.
 				</p>
 				<p align="justify">
-				    <img src="img/gold.jpg" border="0" class="responsive">>
+				    <img src="img/gold.jpg" border="0" class="responsive">
 		        </p>
 		        <p align="justify">
 				   <h3><span class="color">Trading Gold: How It Works</span></h3> 
